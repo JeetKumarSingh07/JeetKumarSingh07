@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Location-Chandigarh-00599C?style=flat-square&logo=googlemaps&logoColor=white" />
   <a href="https://github.com/Jeetsingh07"><img src="https://komarev.com/ghpvc/?username=Jeetsingh07&label=Profile%20Views&color=00599C&style=flat-square" alt="Profile Views" /></a>
   <a href="https://linkedin.com/in/jeet-kumar-singh-aa497831a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-00599C?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/jeetkumarsingh01/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -18,7 +19,7 @@
 
 I am a Software Engineer and Data Analyst based in Chandigarh. My expertise lies at the intersection of **Backend Architecture**, **Data Visualization**, and **Generative Artificial Intelligence**. I specialize in engineering scalable web applications, deploying AI solutions via advanced prompt engineering, and leveraging data libraries such as Pandas, NumPy, and Power BI to extract actionable meaning from complex datasets. 
 
-I am currently focusing my continuing education on **Data Structures & Algorithms (DSA)** to ensure the highest standard of algorithmic efficiency and code scalability in my work. My background in video editing also provides me with a highly refined eye for UI/UX detail and multimedia integration.
+I am currently focusing my continuing education on **Data Structures & Algorithms (DSA)** to ensure the highest standard of algorithmic efficiency and code scalability in my work. My technical discipline allows me to view complex computing problems through the lens of optimized architecture and logic.
 
 ---
 
@@ -46,13 +47,6 @@ I am currently focusing my continuing education on **Data Structures & Algorithm
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,ts,js,react,nodejs,mongodb,html,css,tailwind,git&perline=15" />
-  </a>
-</p>
-
-### 🎨 Creative Media & Video Production
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,ae,ps,figma&perline=15" />
   </a>
 </p>
 
