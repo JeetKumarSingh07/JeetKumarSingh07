@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Chandigarh-00599C?style=flat-square&logo=googlemaps&logoColor=white" />
-  <a href="https://github.com/Jeetsingh07"><img src="https://komarev.com/ghpvc/?username=Jeetsingh07&label=Profile%20Views&color=00599C&style=flat-square" alt="Profile Views" /></a>
+  <a href="https://github.com/JeetKumarSingh07"><img src="https://komarev.com/ghpvc/?username=JeetKumarSingh07&label=Profile%20Views&color=00599C&style=flat-square" alt="Profile Views" /></a>
   <a href="https://linkedin.com/in/jeet-kumar-singh-aa497831a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-00599C?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/jeetkumarsingh01/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
 </p>
@@ -57,12 +57,12 @@ I am currently focusing my continuing education on **Data Structures & Algorithm
 *A quantitative visualization of source code deployments, continuous integration, and total contribution volume.*
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeetsingh07&theme=nord&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeetKumarSingh07&theme=nord&hide_border=true" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeetsingh07&show_icons=true&theme=nord&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeetsingh07&theme=nord&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JeetKumarSingh07&show_icons=true&theme=nord&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeetKumarSingh07&theme=nord&hide_border=true" width="48%" />
 </div>
 
 ---
@@ -70,10 +70,10 @@ I am currently focusing my continuing education on **Data Structures & Algorithm
 ## 📂 Key Architecture Repositories
 
 <p align="center">
-  <a href="https://github.com/Jeetsingh07/resourse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeetsingh07&repo=resourse&theme=nord&show_icons=true" alt="Secure Online Classroom"/>
+  <a href="https://github.com/JeetKumarSingh07/resourse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeetKumarSingh07&repo=resourse&theme=nord&show_icons=true" alt="Secure Online Classroom"/>
   </a>
-  <a href="https://github.com/Jeetsingh07/Python-first-project-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeetsingh07&repo=Python-first-project-&theme=nord&show_icons=true" alt="Python Projects"/>
+  <a href="https://github.com/JeetKumarSingh07/Python-first-project-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeetKumarSingh07&repo=Python-first-project-&theme=nord&show_icons=true" alt="Python Projects"/>
   </a>
 </p>
