@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=220&section=header&text=%20Kumar%20Singh&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Prompt%20Architect&descAlignY=62&descSize=17&descColor=7ecfff&stroke=00d4ff&strokeWidth=1" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=220&section=header&text=Jeet%20Kumar%20Singh&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Prompt%20Architect&descAlignY=62&descSize=17&descColor=7ecfff&stroke=00d4ff&strokeWidth=1" width="100%" alt="Header"/>
 
 </div>
 
